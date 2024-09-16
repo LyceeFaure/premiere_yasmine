@@ -1,0 +1,45 @@
+body {
+       background: beige
+}
+
+h1 {
+       text-align: center;
+       background-color: red;
+       text-decoration: underline;
+       font-family: Comic Sans MS, Comic Sans, cursive;
+       color: black;
+}
+
+h2 {
+       text-decoration: underline;
+       font-family: Comic Sans MS, Comic Sans, cursive;
+       color: black;
+}
+
+h3 {
+       font-family: Comic Sans MS, Comic Sans, cursive;
+       color: black;
+}
+
+p {
+       font-family: Comic Sans MS, Comic Sans, cursive;
+       color: black;
+}
+
+ul {
+       font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+h {
+       font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+a {
+       font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+div {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+}

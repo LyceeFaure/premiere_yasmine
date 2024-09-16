@@ -1,0 +1,35 @@
+h3 {
+		font-style: italic;
+		font-size: 13px;
+		color: #75A5FF;
+}
+
+h1 {
+		text-align: center;
+		color: red;
+		font-size: 40px;
+}
+
+html {
+		background-color: #002500;
+		color: white;
+}
+
+a {
+		color: blue;
+		font-size: 25px;
+}
+
+h2 {
+		font-family: cursive;
+		color: yellow;
+		font-size: 30px;
+}
+
+p {
+		font-size: 25px;
+}
+
+ul {
+		font-size: 25px;
+}

@@ -1,0 +1,29 @@
+h1 {
+		text-align: center;
+		color: white;
+		font-size: 40px;
+}
+
+html {
+		background-color: #0075FF;
+		color: white;
+}
+
+a {
+		color: #EE0000;
+		font-size: 25px;
+}
+
+h2 {
+		font-family: cursive;
+		color: yellow;
+		font-size: 30px;
+}
+
+p {
+		font-size: 25px;
+}
+
+ul {
+		font-size: 25px;
+}
